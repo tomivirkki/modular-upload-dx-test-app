@@ -22,16 +22,14 @@ The application will start at http://localhost:8080
 
 ## Views
 
-| Route | Description |
-|-------|-------------|
-| `/` | Main view for participants to implement tasks |
-| `/solution/1` | Solution for Task 1 - Basic Setup |
-| `/solution/2` | Solution for Task 2 - Constraints |
-| `/solution/3` | Solution for Task 3 - Events |
-| `/solution/4` | Solution for Task 4 - Disabling |
-| `/solution/5` | Solution for Task 5 - Manual Control |
-| `/solution/6` | Solution for Task 6 - Mobile Capture |
-| `/solution/7` | Solution for Task 7 - Internationalization |
+| Route         | Description                                   |
+| ------------- | --------------------------------------------- |
+| `/`           | Main view for participants to implement tasks |
+| `/solution/1` | Solution for Task 1 - Basic Setup             |
+| `/solution/2` | Solution for Task 2 - Constraints             |
+| `/solution/3` | Solution for Task 3 - Events                  |
+| `/solution/4` | Solution for Task 4 - Disabling               |
+| `/solution/5` | Solution for Task 5 - Manual Control          |
 
 ## Notes for Facilitators
 

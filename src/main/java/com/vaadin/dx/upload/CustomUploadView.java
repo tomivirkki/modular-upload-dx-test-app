@@ -78,22 +78,6 @@ import com.vaadin.flow.router.Route;
  *       selection</li>
  *   <li>Clear all files from the file list when a "Clear" button is clicked</li>
  * </ol>
- *
- * <h2>Task 6. Customizing the upload button for mobile</h2>
- * <ol>
- *   <li>Configure the upload button to use the device's back-facing camera
- *       when on mobile</li>
- * </ol>
- *
- * <h2>Task 7. Internationalization</h2>
- * <ol>
- *   <li>Customize the file list texts:
- *     <ul>
- *       <li>Change the "Remove" button text to "Delete"</li>
- *       <li>Change the error message for files that are too large</li>
- *     </ul>
- *   </li>
- * </ol>
  */
 @Route("")
 @Menu(title = "Custom Upload View")
