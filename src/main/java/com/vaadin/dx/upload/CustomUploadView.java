@@ -85,5 +85,6 @@ public class CustomUploadView extends VerticalLayout {
 
     public CustomUploadView() {
         // Implement the tasks here
+        add("This is the Custom Upload View. Implement the tasks as described in the JavaDoc.");
     }
 }
